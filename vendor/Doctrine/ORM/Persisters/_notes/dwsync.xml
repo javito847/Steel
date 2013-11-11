@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCollectionPersister.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="AbstractEntityInheritancePersister.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="BasicEntityPersister.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="ElementCollectionPersister.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="JoinedSubclassPersister.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="ManyToManyPersister.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="OneToManyPersister.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="SingleTablePersister.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="UnionSubclassPersister.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+</dwsync>

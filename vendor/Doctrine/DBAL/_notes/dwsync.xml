@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Configuration.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="Connection.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="ConnectionException.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="DBALException.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="Driver.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="DriverManager.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="Events.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="LockMode.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="README.markdown" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="SQLParserUtils.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="SQLParserUtilsException.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="Statement.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+<file name="Version.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283003400000000" Dst="1" />
+</dwsync>

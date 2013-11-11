@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassLoader.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283002800000000" Dst="1" />
+<file name="CommonException.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283002800000000" Dst="1" />
+<file name="EventArgs.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283002800000000" Dst="1" />
+<file name="EventManager.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283002800000000" Dst="1" />
+<file name="EventSubscriber.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283002800000000" Dst="1" />
+<file name="Lexer.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283002800000000" Dst="1" />
+<file name="NotifyPropertyChanged.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283002800000000" Dst="1" />
+<file name="PropertyChangedListener.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283002800000000" Dst="1" />
+<file name="Version.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283002800000000" Dst="1" />
+</dwsync>

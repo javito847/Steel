@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractQuery.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="Configuration.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="EntityManager.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="EntityNotFoundException.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="EntityRepository.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="Events.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="NativeQuery.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="NonUniqueResultException.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="NoResultException.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="OptimisticLockException.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="ORMException.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="PersistentCollection.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="PessimisticLockException.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="Query.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="QueryBuilder.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="README.markdown" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="TransactionRequiredException.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="UnitOfWork.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="Version.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+</dwsync>

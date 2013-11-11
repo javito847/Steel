@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaAlterTableAddColumnEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaAlterTableChangeColumnEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaAlterTableEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaAlterTableRemoveColumnEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaAlterTableRenameColumnEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaColumnDefinitionEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaCreateTableColumnEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaCreateTableEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaDropTableEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+<file name="SchemaIndexDefinitionEventArgs.php" server="77.75.107.253//JAVIER/api/" local="130127325460000000" remote="130283002800000000" Dst="1" />
+</dwsync>

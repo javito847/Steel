@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Expr.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="Lexer.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="Parser.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="ParserResult.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="Printer.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="QueryException.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="ResultSetMapping.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="SqlWalker.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="TreeWalker.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="TreeWalkerAdapter.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+<file name="TreeWalkerChain.php" server="77.75.107.253//JAVIER/api/" local="129278442080000000" remote="130283003400000000" Dst="1" />
+</dwsync>
